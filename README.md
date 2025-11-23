@@ -1,3 +1,3 @@
 # netflix-home-page-clone
 
-<img width="1885" height="605" alt="Screenshot 2025-11-04 001109" src="https://github.com/user-attachments/assets/ca806e13-5637-4c4a-94f1-525623b2702c" />
+<img width="1901" height="761" alt="image" src="https://github.com/user-attachments/assets/e7d3d7ac-9d6a-432e-9271-096732de7815" />
